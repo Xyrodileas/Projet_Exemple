@@ -1,9 +1,12 @@
+# On spécifie le language
 language: python
+# On spécifie les versions de python avec laquelle on veut tester
 python:
   - "2.6"
   - "2.7"
   - "3.2"
   - "3.3"
   - "3.4"
+# Ici on spécifie qu'on souhaite exécuter test.py pour lancer les tests
 script:
   - python test.py
