@@ -1,3 +1,5 @@
+# coding: utf8
+
 import unittest
 from fizzbuzz import fizzbuzz
 class TestFonctionFizzBuzz(unittest.TestCase):

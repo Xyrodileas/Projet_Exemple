@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -*- coding: utf_8 -*-
 
 def fizzbuzz(n):
 
