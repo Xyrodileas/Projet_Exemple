@@ -8,5 +8,3 @@ def fizzbuzz(n):
         return 'Buzz'
     else:
         return str(n)
-
-print "\n".join(fizzbuzz(n) for n in xrange(1, 21))
