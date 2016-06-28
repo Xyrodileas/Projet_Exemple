@@ -5,7 +5,7 @@ from fizzbuzz import fizzbuzz
 class TestFonctionFizzBuzz(unittest.TestCase):
     # Code de test pour la methode fizzbuzz :
     def test_fizz_buzz5(self):
-        str15 = fizzbuzz(5)
+        str15 = fizzbuzz(6)
         self.assertEqual(str15, "Buzz")
 
     def test_fizz_buzz3(self):
